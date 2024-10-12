@@ -70,6 +70,11 @@ I'm a **Full Stack AI Engineer** passionate about building innovative AI solutio
 
 ---
 
+## 😂 Random joke!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+---
+
 ## ⚡ Fun Fact
 
 Did you know that the first AI program was written in 1951? When I'm not coding, I love exploring the history of AI and its impact on our future.
