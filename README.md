@@ -1,85 +1,167 @@
-![Header](https://github.com/user-attachments/assets/27fd6551-a7dd-48a3-9454-1730e5fdb5e5)
+<!-- ===== WAVE HEADER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=220&section=header&text=Pravin%20Gadekar&fontSize=50&fontAlignY=35&desc=Full%20Stack%20AI%20Engineer%20%7C%20Agent%20Builder&descSize=18&descAlignY=55&fontColor=FFFFFF&animation=fadeIn" width="100%" />
+</p>
 
-# Hi there, I'm Pravin 👋
+<!-- ===== TYPING SVG ===== -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+AI+Engineer;AI+Agent+Builder;MCP+Server+Developer;Building+the+Future+with+AI" alt="Typing SVG" />
+  </a>
+</p>
 
-I'm a **Full Stack AI Engineer** passionate about building innovative AI solutions that make a difference. With expertise in both front-end and back-end development, I specialize in integrating machine learning models into scalable applications.
+<!-- ===== PROFILE VIEWS ===== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gadekar-pravin&style=flat-square&color=blueviolet" alt="Profile Views" />
+</p>
 
----
+<!-- ===== DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Technologies & Tools
+<!-- ===== ABOUT ME ===== -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
 
-### Programming Languages
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+- 🤖 Building **agentic AI systems** with multi-agent orchestration
+- 🧠 Working with **Google ADK**, **Gemini**, and **LangChain** for intelligent agents
+- 🔧 Developing **MCP servers** for tool-augmented AI workflows
+- 🏗️ Architecting **graph-based multi-agent pipelines** for complex automation
+- ☁️ Deploying AI solutions on **Google Cloud Platform**
+- 🔍 Implementing **RAG pipelines** and **code execution** environments
+- 📚 Passionate about pushing the boundaries of what AI agents can do
 
-### Frameworks & Libraries
+<br clear="right"/>
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+<!-- ===== DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### Tools & Platforms
+<!-- ===== TECH STACK ===== -->
+## 🛠️ Tech Stack
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
----
+### AI / ML
+<p>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
 
-## 🚀 Projects
+### Web & Backend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
-- **[Project One](https://github.com/gadekar-pravin/project-one)**  
-  *An AI-powered application that does amazing things.*  
-  Technologies: TensorFlow, React, AWS
+### Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-- **[Project Two](https://github.com/gadekar-pravin/project-two)**  
-  *A machine learning model that predicts awesome stuff.*  
-  Technologies: PyTorch, Node.js, Docker
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firestore-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
+</p>
 
-- **[Project Three](https://github.com/gadekar-pravin/project-three)**  
-  *A full-stack platform integrating AI algorithms for fantastic results.*  
-  Technologies: Python, Flask, Kubernetes
+<!-- ===== DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+<!-- ===== FEATURED PROJECTS ===== -->
+## 🚀 Featured Projects
 
+<p align="center">
+  <a href="https://github.com/gadekar-pravin/apexflow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gadekar-pravin&repo=apexflow&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B&text_color=FFFFFF" />
+  </a>
+  <a href="https://github.com/gadekar-pravin/InsightAgent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gadekar-pravin&repo=InsightAgent&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B&text_color=FFFFFF" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/gadekar-pravin/S15_Assignment">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gadekar-pravin&repo=S15_Assignment&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B&text_color=FFFFFF" />
+  </a>
+  <a href="https://github.com/gadekar-pravin/course-creation-ai-agent-architecture">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gadekar-pravin&repo=course-creation-ai-agent-architecture&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B&text_color=FFFFFF" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/gadekar-pravin/Text-Only-Chrome-Extension">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gadekar-pravin&repo=Text-Only-Chrome-Extension&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B&text_color=FFFFFF" />
+  </a>
+  <a href="https://github.com/gadekar-pravin/eag2-mcp-mac">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gadekar-pravin&repo=eag2-mcp-mac&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B&text_color=FFFFFF" />
+  </a>
+</p>
+
+<!-- ===== DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ===== GITHUB STATS ===== -->
 ## 📊 GitHub Stats
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=gadekar-pravin&show_icons=true&theme=radical)](https://github.com/gadekar-pravin)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gadekar-pravin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B&text_color=FFFFFF&count_private=true" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadekar-pravin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" height="180" />
+</p>
 
----
+<!-- ===== STREAK STATS ===== -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gadekar-pravin&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
+</p>
 
-## 📫 Get in Touch
+<!-- ===== DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://linkedin.com/in/pravin-gadekar)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pbgadekar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pravin-gadekar)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/pravin-gadekar)
+<!-- ===== ACTIVITY GRAPH ===== -->
+## 📈 Contribution Graph
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gadekar-pravin&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FF6B6B&area=true&area_color=A855F7" width="100%" />
+</p>
 
-## 🌱 Currently Learning
+<!-- ===== DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-- **Advanced NLP Techniques**
-- **Reinforcement Learning**
-- **Scalable Microservices**
+<!-- ===== CONNECT ===== -->
+## 🤝 Connect With Me
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/pravin-gadekar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:pbgadekar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/gadekar-pravin">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-## 😂 Random joke!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
----
-
-## ⚡ Fun Fact
-
-Did you know that the first AI program was written in 1951? When I'm not coding, I love exploring the history of AI and its impact on our future.
-
----
-
-*© [Pravin Gadekar](https://github.com/gadekar-pravin)*
-
+<!-- ===== WAVE FOOTER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=120&section=footer" width="100%" />
+</p>
