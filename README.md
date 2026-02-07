@@ -10,13 +10,22 @@
   </a>
 </p>
 
-<!-- ===== PROFILE VIEWS ===== -->
+<!-- ===== QUICK LINKS ===== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gadekar-pravin&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <a href="#-about">About</a> &nbsp;•&nbsp;
+  <a href="#-now">Now</a> &nbsp;•&nbsp;
+  <a href="#-tech-stack">Tech Stack</a> &nbsp;•&nbsp;
+  <a href="#-featured-projects">Projects</a> &nbsp;•&nbsp;
+  <a href="#-github-stats">Stats</a> &nbsp;•&nbsp;
+  <a href="#-connect-with-me">Connect</a>
 </p>
 
-<!-- ===== DIVIDER ===== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ===== BADGES ===== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gadekar-pravin&style=for-the-badge&color=8B5CF6" alt="Profile Views" />
+</p>
+
+---
 
 <!-- ===== ABOUT ME ===== -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
@@ -33,56 +42,63 @@
 
 <br clear="right"/>
 
-<!-- ===== DIVIDER ===== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
+
+## ✨ Now <a id="-now"></a>
+
+- 🔭 Currently building: **ApexFlow** — graph-based multi-agent orchestration
+- 🎯 Focus: **MCP tooling + reliable agent workflows** (evals, tracing, guardrails)
+- 🤝 Open to: **collabs / consulting / OSS contributions** in agentic AI systems
+
+---
 
 <!-- ===== TECH STACK ===== -->
 ## 🛠️ Tech Stack
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<details>
+<summary><b>Show full tech stack</b></summary>
+<br />
 
-### AI / ML
-<p>
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
+**Languages**
 
-### Web & Backend
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+**AI / ML**
 
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firestore-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
-</p>
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-<!-- ===== DIVIDER ===== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+**Web & Backend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Cloud & DevOps**
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Databases**
+
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+
+</details>
+
+---
 
 <!-- ===== FEATURED PROJECTS ===== -->
 ## 🚀 Featured Projects
@@ -94,8 +110,8 @@
 ### [🔄 ApexFlow](https://github.com/gadekar-pravin/apexflow)
 AI-powered workflow automation with **graph-based multi-agent orchestration**. Build complex agent pipelines with ease.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/Multi--Agent-A855F7?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/Multi--Agent-A855F7?style=for-the-badge)
 
 </td>
 <td width="50%" valign="top">
@@ -103,8 +119,8 @@ AI-powered workflow automation with **graph-based multi-agent orchestration**. B
 ### [📊 InsightAgent](https://github.com/gadekar-pravin/InsightAgent)
 AI-Powered **Business Intelligence Agent** built with Google ADK. Natural language to data insights.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </td>
 </tr>
@@ -114,8 +130,8 @@ AI-Powered **Business Intelligence Agent** built with Google ADK. Natural langua
 ### [🤖 S15 Multi-Agent System](https://github.com/gadekar-pravin/S15_Assignment)
 Multi-agent AI system with **MCP servers**, **RAG pipeline**, and **code execution** environment.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Server-FF6B6B?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Server-FF6B6B?style=for-the-badge)
 
 </td>
 <td width="50%" valign="top">
@@ -123,8 +139,8 @@ Multi-agent AI system with **MCP servers**, **RAG pipeline**, and **code executi
 ### [🎓 Course Creation AI Agent](https://github.com/gadekar-pravin/course-creation-ai-agent-architecture)
 AI agent architecture for **automated course creation** with intelligent content generation.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI Agent](https://img.shields.io/badge/AI_Agent-A855F7?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI Agent](https://img.shields.io/badge/AI_Agent-A855F7?style=for-the-badge)
 
 </td>
 </tr>
@@ -134,8 +150,8 @@ AI agent architecture for **automated course creation** with intelligent content
 ### [📖 Text-Only Chrome Extension](https://github.com/gadekar-pravin/Text-Only-Chrome-Extension)
 **Kindle-like reading experience** for any webpage. Strips distractions for focused reading.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -143,15 +159,14 @@ AI agent architecture for **automated course creation** with intelligent content
 ### [🔧 EAG2 MCP Server](https://github.com/gadekar-pravin/eag2-mcp-mac)
 **MCP server implementation** for tool-augmented AI workflows on macOS.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Server-FF6B6B?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Server-FF6B6B?style=for-the-badge)
 
 </td>
 </tr>
 </table>
 
-<!-- ===== DIVIDER ===== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <!-- ===== GITHUB STATS ===== -->
 ## 📊 GitHub Stats
@@ -163,20 +178,15 @@ AI agent architecture for **automated course creation** with intelligent content
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gadekar-pravin&theme=radical" width="100%" />
-</p>
-
-
-<!-- ===== ACTIVITY GRAPH ===== -->
-## 📈 Contribution Graph
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gadekar-pravin&theme=radical&utcOffset=5.5" height="180" />
   &nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gadekar-pravin&theme=radical" height="180" />
 </p>
 
-<!-- ===== DIVIDER ===== -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gadekar-pravin&theme=radical" width="100%" />
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ===== CONNECT ===== -->
