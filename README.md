@@ -87,32 +87,68 @@
 <!-- ===== FEATURED PROJECTS ===== -->
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/gadekar-pravin/apexflow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gadekar-pravin&repo=apexflow&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/gadekar-pravin/InsightAgent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gadekar-pravin&repo=InsightAgent&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B&text_color=FFFFFF" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://github.com/gadekar-pravin/S15_Assignment">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gadekar-pravin&repo=S15_Assignment&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/gadekar-pravin/course-creation-ai-agent-architecture">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gadekar-pravin&repo=course-creation-ai-agent-architecture&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B&text_color=FFFFFF" />
-  </a>
-</p>
+### [🔄 ApexFlow](https://github.com/gadekar-pravin/apexflow)
+AI-powered workflow automation with **graph-based multi-agent orchestration**. Build complex agent pipelines with ease.
 
-<p align="center">
-  <a href="https://github.com/gadekar-pravin/Text-Only-Chrome-Extension">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gadekar-pravin&repo=Text-Only-Chrome-Extension&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/gadekar-pravin/eag2-mcp-mac">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gadekar-pravin&repo=eag2-mcp-mac&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B&text_color=FFFFFF" />
-  </a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/Multi--Agent-A855F7?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### [📊 InsightAgent](https://github.com/gadekar-pravin/InsightAgent)
+AI-Powered **Business Intelligence Agent** built with Google ADK. Natural language to data insights.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🤖 S15 Multi-Agent System](https://github.com/gadekar-pravin/S15_Assignment)
+Multi-agent AI system with **MCP servers**, **RAG pipeline**, and **code execution** environment.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Server-FF6B6B?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### [🎓 Course Creation AI Agent](https://github.com/gadekar-pravin/course-creation-ai-agent-architecture)
+AI agent architecture for **automated course creation** with intelligent content generation.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI Agent](https://img.shields.io/badge/AI_Agent-A855F7?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [📖 Text-Only Chrome Extension](https://github.com/gadekar-pravin/Text-Only-Chrome-Extension)
+**Kindle-like reading experience** for any webpage. Strips distractions for focused reading.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [🔧 EAG2 MCP Server](https://github.com/gadekar-pravin/eag2-mcp-mac)
+**MCP server implementation** for tool-augmented AI workflows on macOS.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Server-FF6B6B?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 <!-- ===== DIVIDER ===== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -121,9 +157,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gadekar-pravin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B&text_color=FFFFFF&count_private=true" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gadekar-pravin&theme=radical" height="180" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadekar-pravin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gadekar-pravin&theme=radical" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gadekar-pravin&theme=radical" width="100%" />
 </p>
 
 <!-- ===== STREAK STATS ===== -->
@@ -138,7 +178,9 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gadekar-pravin&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FF6B6B&area=true&area_color=A855F7" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gadekar-pravin&theme=radical&utcOffset=5.5" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gadekar-pravin&theme=radical" height="180" />
 </p>
 
 <!-- ===== DIVIDER ===== -->
