@@ -166,13 +166,6 @@ AI agent architecture for **automated course creation** with intelligent content
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gadekar-pravin&theme=radical" width="100%" />
 </p>
 
-<!-- ===== STREAK STATS ===== -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gadekar-pravin&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
-</p>
-
-<!-- ===== DIVIDER ===== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ===== ACTIVITY GRAPH ===== -->
 ## 📈 Contribution Graph
