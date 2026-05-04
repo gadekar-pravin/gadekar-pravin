@@ -1,9 +1,8 @@
 # Pravin Gadekar
 
-**Full Stack AI Engineer**
+**Google Cloud Data & GenAI Solution Architect**
 
-I build agentic AI systems — multi-agent orchestration, MCP servers, and tool-augmented workflows.
-Currently focused on making AI agents reliable enough for production.
+16+ years in data platforms and cloud architecture. Currently designing enterprise GenAI solutions — Gemini agents, multi-agent orchestration, MCP, and RAG — on Google Cloud. Background spans the full data lifecycle: ingestion, transformation, orchestration, quality, governance, and visualization.
 
 ---
 
@@ -63,14 +62,22 @@ MCP servers + RAG pipeline + sandboxed code execution.
 
 ### Stack
 
-**AI/Agents:** Google ADK · Gemini · LangChain · MCP Protocol · RAG
+**GenAI & Agents:** Vertex AI · Gemini · Google ADK · LangChain · MCP Protocol · RAG
 
-**Languages:** Python · TypeScript · JavaScript
+**Data & Orchestration:** BigQuery · Snowflake · Airflow · dbt · Dataform · Dataflow · Looker
 
-**Infra:** GCP · FastAPI · Docker · BigQuery · PostgreSQL
+**Languages:** Python · SQL · TypeScript · JavaScript
+
+**Infra & DevOps:** GCP · Cloud Run · FastAPI · Docker · Terraform · PostgreSQL
 
 ---
 
 ### Connect
 
 [LinkedIn](https://linkedin.com/in/pravin-gadekar) · [Email](mailto:pbgadekar@gmail.com)
+
+---
+
+### Credentials
+
+Google Cloud Certified (Professional Cloud Architect, Professional Data Engineer, Associate Cloud Engineer) · Azure Data Engineer Associate · Databricks Certified (Data Engineer, Data Analyst) · CKAD
