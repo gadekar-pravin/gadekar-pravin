@@ -1,83 +1,16 @@
-# Pravin Gadekar
+Google Cloud Architect. I build AI agents and the data platforms behind them.
 
-**Google Cloud Data & GenAI Solution Architect**
+18+ years in data and software engineering, on Google Cloud since 2019. At LTIMindtree I architect agentic AI on Google ADK and Gemini; seven GenAI and agentic initiatives have reached production rollout. That client code is private. The projects below are my own public work.
 
-16+ years in data platforms and cloud architecture. Currently designing enterprise GenAI solutions — Gemini agents, multi-agent orchestration, MCP, and RAG — on Google Cloud. Background spans the full data lifecycle: ingestion, transformation, orchestration, quality, governance, and visualization.
+**Selected work**
 
----
+- **Beagle** · Multi-agent incident triage on Google ADK 2.x and Cloud Run, with AlloyDB RAG and a critic agent. An engineer approves the exact plan before a credential-isolated service applies it and opens a fix PR. Public reference architecture; repository private. [Overview](https://beagle.pravingadekar.com) · [Recorded runs](https://replay.beagle.pravingadekar.com)
+- **[costhelm](https://github.com/gadekar-pravin/costhelm)** · Self-hosted LLM gateway that enforces hard budgets before the call, with a priced ledger and cost/quality routing. On PyPI. [Docs](https://costhelm.com)
+- **[ApexFlow](https://github.com/gadekar-pravin/apexflow)** · Gemini workflow platform: DAG agent execution, hybrid RAG on AlloyDB, sandboxed code execution.
+- **[WicketWise](https://github.com/gadekar-pravin/WicketWise)** · Agent that investigates T20 matches over BigQuery and answers with cited evidence.
 
-### What I'm Working On
+**Stack** · Google ADK · Gemini · MCP · A2A · BigQuery · Dataflow · Dataform · Databricks · Snowflake · Cloud Run · Terraform · Python · SQL
 
-> **[ApexFlow](https://github.com/gadekar-pravin/apexflow)** — Graph-based multi-agent orchestration framework.
-> Agents as nodes, edges as message channels, built-in tracing and guardrails.
+**Certified** · [Google Cloud](https://www.credly.com/users/pravingadekar/badges): Professional Cloud Architect, Professional Data Engineer, Associate Cloud Engineer, Associate Data Practitioner, Generative AI Leader · [Databricks](https://www.credential.net/profile/pravinbgadekar/wallet): Data Engineer Professional, Generative AI Engineer Associate, Data Engineer Associate, Data Analyst Associate
 
----
-
-### Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[ApexFlow](https://github.com/gadekar-pravin/apexflow)** `Python`
-
-Multi-agent orchestration with graph-based pipelines.
-
-`multi-agent` `orchestration` `graph`
-
-</td>
-<td width="50%" valign="top">
-
-**[InsightAgent](https://github.com/gadekar-pravin/InsightAgent)** `Python`
-
-BI agent on Google ADK. NL queries to SQL to visualizations.
-
-`google-adk` `bi-agent` `gemini`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[MapTube](https://github.com/gadekar-pravin/EAG3-02-MapTube)** `TypeScript`
-
-Chrome extension: YouTube transcripts to clickable study maps via Gemini Flash.
-
-`chrome-ext` `gemini-flash` `ai-tools`
-
-</td>
-<td width="50%" valign="top">
-
-**[S15 Multi-Agent System](https://github.com/gadekar-pravin/S15_Assignment)** `Python`
-
-MCP servers + RAG pipeline + sandboxed code execution.
-
-`mcp-server` `rag` `code-exec`
-
-</td>
-</tr>
-</table>
-
----
-
-### Stack
-
-**GenAI & Agents:** Vertex AI · Gemini · Google ADK · LangChain · MCP Protocol · RAG
-
-**Data & Orchestration:** BigQuery · Snowflake · Airflow · dbt · Dataform · Dataflow · Looker
-
-**Languages:** Python · SQL · TypeScript · JavaScript
-
-**Infra & DevOps:** GCP · Cloud Run · FastAPI · Docker · Terraform · PostgreSQL
-
----
-
-### Connect
-
-[LinkedIn](https://linkedin.com/in/pravin-gadekar) · [Email](mailto:pbgadekar@gmail.com)
-
----
-
-### Credentials
-
-Google Cloud Certified (Professional Cloud Architect, Professional Data Engineer, Associate Cloud Engineer) · Azure Data Engineer Associate · Databricks Certified (Data Engineer, Data Analyst) · CKAD
+[pravingadekar.com](https://pravingadekar.com) · [LinkedIn](https://linkedin.com/in/pravin-gadekar)
